@@ -1,0 +1,23 @@
+td {
+    background: mediumpurple;
+    border-radius: 30px;
+    padding: 5px;
+    border-left: 3px solid black;
+}
+
+button {
+    background: rgb(197, 44, 235);
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+th {
+    background: mediumpurple;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+input {
+    border-radius: 30px;
+    font-size: 20px;
+}
